@@ -1,0 +1,29 @@
+.bsa-placeholder {
+ clear:both;
+ width:100%;
+ background:#eaedf0 !important;
+ text-align:center;
+ margin-right:.5rem;
+ border-radius:.4rem;
+border-color:#ffffff;
+ overflow:hidden;
+ padding-top:10px;
+ padding-bottom:10px;
+}
+#bsa-placeholder-search {
+ clear:both;
+ width:100%;
+ background:#eaedf0 !important;
+ text-align:center;
+ margin-right:.5rem;
+ border-radius:.4rem;
+border-color:#ffffff;
+ overflow:hidden;
+ padding-top:10px;
+ padding-bottom:10px;
+}
+.fondo-blanco{
+background:#eaedf0 !important;
+padding-top:10px;
+padding-bottom:10px;
+}
